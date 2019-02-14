@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bringg:ordertrack-1.2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ordertrack-1.2.0.aar/dcbf86baaedc413072f143d105a72744/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ordertrack-1.2.0.aar/dcbf86baaedc413072f143d105a72744/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bringg/ordertrack/1.2.0/6e25f61a35a2c40afead4fe3a481501ffe28f488/ordertrack-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
