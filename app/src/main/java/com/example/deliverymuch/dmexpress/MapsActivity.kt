@@ -24,8 +24,8 @@ import com.bringg.ordertrack.realtime.event_listeners.OrderStatusListener
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback, RealTimeConnectionCallback {
 
     private lateinit var mMap: GoogleMap
-    private val EXAMPLE_DEV_ACCESS_TOKEN = "ue1_YZYvFqAc1gBPAJaKqVMr"
-    private val EXAMPLE_UUID = "7d8e1331-b727-4037-9027-e87f818f9b86"
+    private val EXAMPLE_DEV_ACCESS_TOKEN = "EXAMPLE_DEV_ACCESS_TOKEN"
+    private val EXAMPLE_UUID = "EXAMPLE_UUID"
     private var bringgClient: BringgClient? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
